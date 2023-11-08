@@ -1,0 +1,5 @@
+/home/mamok/Documents/belajar_Csharp/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.csproj.AssemblyReference.cache
+/home/mamok/Documents/belajar_Csharp/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+/home/mamok/Documents/belajar_Csharp/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.AssemblyInfoInputs.cache
+/home/mamok/Documents/belajar_Csharp/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.AssemblyInfo.cs
+/home/mamok/Documents/belajar_Csharp/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.csproj.CoreCompileInputs.cache
